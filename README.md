@@ -40,3 +40,4 @@
    International (CC BY-NC 4.0)
 
    © 2026 Emanation Interactive LLC
+   https://emanationinteractive.com
